@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/updateflash/statreq' protocol='2.0'>
+  <app appid='bmeiplhdekbmkjgldkilajclmjgcifei'>
+    <updatecheck codebase='https://github.com/findflow-app/findflow_chrome_theme/blob/c42c50de7d8f5acd93795d6a5691bf37fe981d2d/assets.crx' version='1.0' />
+  </app>
+</gupdate>
